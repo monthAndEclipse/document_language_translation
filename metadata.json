@@ -1,0 +1,5 @@
+{
+  "name": "PolyGlot Bridge",
+  "description": "A production-grade, real-time batch document translation system with structure-preserving capabilities and live split-view preview.",
+  "requestFramePermissions": []
+}
